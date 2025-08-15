@@ -119,7 +119,7 @@ LIMIT 5;
 ## Streamlit App
 
 st.set_page_config(page_title="I can Retrieve Any SQL query")
-st.header("JUST KIDDING : QUERY JUST KIDDING ACPC DB FROM 2017")
+st.header("JUST KIDDING : QUERY JUST KIDDING College DB FROM 2017")
 
 question=st.text_input("Input: ",key="input")
 
